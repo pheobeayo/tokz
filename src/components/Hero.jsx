@@ -1,5 +1,5 @@
 
-import heroImage from "../assets/heroImage2.jpg";
+import heroImage from "../assets/heroImage.webp";
 import aboutImage from "../assets/aboutImage.webp";
 
 
@@ -18,11 +18,11 @@ const Hero = () => {
                     }}
                 >
                     <h1 className=" text-white lg:text-[38px] md:text-[38px] text-[30px] font-montserrat font-[700] my-4">
-                        Make your <span className="text-[#040927]">Tokens </span> Deployment
-                        <br />without <span className="text-[#040927]">sweat and</span> easily
+                        Make your Tokens Deployment
+                        <br />without sweat and easily
                     </h1>
                     <div className="mt-6">
-                        <button className="bg-gradient-to-r  from-[#080B2A] via-[#2A3E84] to-[#080B2A] rounded-3xl p-4 text-white mr-4 lg:text-[20px] md:text-[20px] text-[18px]">
+                        <button className="bg-[#15BFFD] hover:bg-[#2A3E84] rounded-3xl p-4 text-white mr-4 lg:text-[20px] md:text-[20px] text-[18px]">
                             Deploy Token
                         </button>
 
@@ -36,7 +36,7 @@ const Hero = () => {
                 <div>
                     <div className="lg:w-[95%] md:w-[95%] flex justify-between flex-col lg:flex-row md:flex-row items-center px-4 lg:px-0 md:px-0">
                         <ul className="text-white lg:w-[50%] md:w-[50%] w-[90%] mx-10">
-                            <li className="lg:text-[24px] md:text-[24px] text-[18px] list-disc mb-4 "><strong>Get Started</strong>: Begin by connecting your wallet on the Toz platform.</li>
+                            <li className="lg:text-[24px] md:text-[24px] text-[18px] list-disc mb-4 "><strong>Get Started</strong>: Begin by connecting your wallet on the Tokz platform.</li>
                             <li className="lg:text-[24px] md:text-[24px] text-[18px] list-disc mb-4 "><strong>Proceed to deploy your erc20 Tokens</strong>: Provide details about the recyclable materials of your tokens</li>
                             <li className="lg:text-[24px] md:text-[24px] text-[18px] list-disc mb-4 "><strong>Users get directed to their dashboards to view their deployed tokens</strong>: You can view the history of your deployed contracts</li>
                             <li className="lg:text-[24px] md:text-[24px] text-[18px] list-disc mb-4 "><strong>Secure Blockchain Deployment</strong>: As user you can deploy your tokens in various chains with ease</li>

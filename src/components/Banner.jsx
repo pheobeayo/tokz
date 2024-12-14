@@ -1,5 +1,5 @@
 import { useState } from "react";
-import heroImage2 from "../assets/heroImage2.jpg";
+import heroImage from "../assets/heroImage.webp";
 import Box from "@mui/material/Box";
 import Modal from "@mui/material/Modal";
 
@@ -29,7 +29,7 @@ const Banner = () => {
             <div
                 className="lg:w-[100%] md:w-[100%] w-[100%] mx-auto text-center p-8 lg:px-0 md:px-0 border border-white rounded-2xl bg-cover bg-center"
                 style={{
-                    backgroundImage: `url(${heroImage2})`,
+                    backgroundImage: `url(${heroImage})`,
                     backgroundSize: "cover",
                 }}
             >
