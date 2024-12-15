@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="lg:w-[90%] md:w-[90%] w-[100%] mx-auto flex flex-col">
         <div className="lg:w-[40%] md:w-[40%] w-[100%] ml-auto my-6 flex flex-col lg:items-end lg:text-right md:items-end md:text-right text-center items-center">
         <h1 className='font-montserrat text-[40px] font-bold cursor-pointer bg-clip-text text-transparent bg-gradient-to-r from-[#fff] via-[#15BFFD] to-[#fff]'>Tokz</h1>
-          <p className="lg:w-[80%] md:w-[80%] w-[100%]">Deploying your Tokens with ease</p>
+          <p className="lg:w-[80%] md:w-[80%] w-[100%]">Deploying your Tokens with securely at fingertips</p>
         </div>
         <div className="flex items-center justify-between flex-col lg:flex-row md:flex-row text-center lg:text-left md:text-left">
           <p className="mb-4">&copy; 2024 Tokz</p>

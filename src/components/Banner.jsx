@@ -35,7 +35,7 @@ const Banner = () => {
             >
                 <h1 className=" text-white lg:text-[38px] md:text-[38px] text-[30px] font-montserrat font-[700] my-4">
                     Deploying your Tokens
-                    <br />with great ease
+                    <br />securely at fingertips
                 </h1>
 
                 <div className="mt-6">
